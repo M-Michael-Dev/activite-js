@@ -10,9 +10,7 @@ const melodie = new Contact("Nelsonne", "Mélodie");
 const tabContact = [carole, melodie];
 const tabOption = ["Quitter", "Lister les contacts", "Ajouter un contact"];
 
-
-
-
+// Test1
 
 /**
  * options -Affiche et demande le choix a l'utilisateur
